@@ -1,0 +1,29 @@
+@media only screen and (max-width:760px) {
+    .nav ul li{
+        display: none;
+    }
+    .nav img{
+        width: 30px;
+    }
+    .nav{
+        padding: 10px 30px 10px 30px;
+        align-items: center;
+    }
+    .nav button{
+        padding: 10px 20px 10px 20px;
+    }
+    .problem{
+        width: 70vw;
+    }
+    .img-gen{
+        width: 60vw;
+        right: -3vw;
+    }
+
+
+
+
+
+
+
+}

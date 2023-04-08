@@ -1,0 +1,6 @@
+@media only screen and(width > 1020px) {
+    .img-gen{
+        right: 100px;
+        width: 100px;
+    }
+}

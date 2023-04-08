@@ -1,0 +1,19 @@
+@media only screen and (max-width:1020px) {
+    .hi{
+        font-size: 28px;
+    }
+    .name{
+        font-size: 48px;
+        padding-top: 10px;
+    }
+    .prof{
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+    .lang p{
+        letter-spacing: 1px;
+    }
+    .problem{
+        width: 70vw;
+    }
+}
